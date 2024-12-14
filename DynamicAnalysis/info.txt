@@ -1,0 +1,2 @@
+This is the root directory for the ITIS-4221 project containing security vulnerability examples and demonstrations.
+Content organization is in progress.
